@@ -23,4 +23,4 @@ Marginal Posterior Density:
 
 Coverage probability on confidence interval:
 
-![Confidence Interval](ml3.png)
+![Confidence Interval](stat3.png)
